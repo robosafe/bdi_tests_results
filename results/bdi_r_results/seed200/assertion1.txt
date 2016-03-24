@@ -1,0 +1,5 @@
+Assertion 1 at test 5: Passed at global time 77.1189899445
+Assertion 1 at test 10: Passed at global time 69.8676040173
+Assertion 1 at test 13: Passed at global time 41.7920179367
+Assertion 1 at test 22: Passed at global time 89.5354681015
+Assertion 1 at test 24: Passed at global time 43.4530110359

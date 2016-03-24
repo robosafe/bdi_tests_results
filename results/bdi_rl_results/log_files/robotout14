@@ -1,0 +1,11 @@
+[INFO] [WallTime: 1458741350.595647] [0.000000] State machine starting in initial state 'Reset' with userdata: 
+	[]
+[0m[ INFO] [1458741350.672461798]: Loading robot model 'bert2'...[0m
+[0m[ INFO] [1458741350.672507260]: No root joint specified. Assuming fixed joint[0m
+[0m[ INFO] [1458741351.360026664, 2400.883000000]: Loading robot model 'bert2'...[0m
+[0m[ INFO] [1458741351.360070378, 2400.883000000]: No root joint specified. Assuming fixed joint[0m
+[0m[ INFO] [1458741352.300302073, 2401.450000000]: Ready to take MoveGroup commands for group body_arm.[0m
+[INFO] [WallTime: 1458741361.234350] [2406.935000] State machine transitioning 'Reset':'outcome1'-->'Receive1'
+[INFO] [WallTime: 1458741361.308490] [2406.989000] State machine transitioning 'Receive1':'outcome2'-->'Receive1'
+[INFO] [WallTime: 1458741361.384678] [2407.041000] State machine transitioning 'Receive1':'outcome1'-->'Move_hand'
+[0m[ INFO] [1458741362.252212252, 2407.632000000]: Ready to take MoveGroup commands for group body_arm.[0m

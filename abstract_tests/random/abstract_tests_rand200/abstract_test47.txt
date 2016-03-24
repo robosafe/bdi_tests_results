@@ -1,0 +1,9 @@
+tell leg
+receivesignal
+bored
+tell leg
+receivesignal
+bored
+tell leg
+receivesignal
+bored
