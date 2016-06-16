@@ -1,0 +1,22 @@
+[INFO] [WallTime: 1466020077.040050] [0.000000] State machine starting in initial state 'Pressure10' with userdata: 
+	[]
+[INFO] [WallTime: 1466020077.394923] [6084.464000] State machine transitioning 'Pressure10':'outcome1'-->'Gaze01'
+[INFO] [WallTime: 1466020077.696757] [6084.667000] State machine transitioning 'Gaze01':'outcome1'-->'Location02'
+[INFO] [WallTime: 1466020079.134284] [6085.572000] State machine transitioning 'Location02':'outcome1'-->'Location13'
+[INFO] [WallTime: 1466020080.506633] [6086.481000] State machine transitioning 'Location13':'outcome1'-->'Location04'
+[INFO] [WallTime: 1466020081.873574] [6087.383000] State machine transitioning 'Location04':'outcome1'-->'SendA15'
+[INFO] [WallTime: 1466020086.240520] [6090.487000] State machine transitioning 'SendA15':'outcome1'-->'Pressure16'
+[INFO] [WallTime: 1466020086.519324] [6090.687000] State machine transitioning 'Pressure16':'outcome1'-->'SendA17'
+[INFO] [WallTime: 1466020090.806307] [6093.788000] State machine transitioning 'SendA17':'outcome1'-->'SendA28'
+[INFO] [WallTime: 1466020102.202976] [6101.790000] State machine transitioning 'SendA28':'outcome1'-->'Gaze09'
+[INFO] [WallTime: 1466020102.506368] [6101.991000] State machine transitioning 'Gaze09':'outcome1'-->'Location110'
+[INFO] [WallTime: 1466020103.935645] [6102.891000] State machine transitioning 'Location110':'outcome1'-->'Location011'
+[INFO] [WallTime: 1466020105.499091] [6103.792000] State machine transitioning 'Location011':'outcome1'-->'Pressure112'
+[INFO] [WallTime: 1466020105.822071] [6103.992000] State machine transitioning 'Pressure112':'outcome1'-->'Pressure013'
+[INFO] [WallTime: 1466020106.159497] [6104.193000] State machine transitioning 'Pressure013':'outcome1'-->'Timeout14'
+Bored
+[INFO] [WallTime: 1466020106.311099] [6104.294000] State machine transitioning 'Timeout14':'outcome1'-->'SendA215'
+[INFO] [WallTime: 1466020119.144940] [6112.296000] State machine transitioning 'SendA215':'outcome1'-->'Gaze116'
+[INFO] [WallTime: 1466020119.518496] [6112.498000] State machine transitioning 'Gaze116':'outcome1'-->'Location017'
+[INFO] [WallTime: 1466020121.042059] [6113.398000] State machine transitioning 'Location017':'outcome1'-->'Pressure018'
+[INFO] [WallTime: 1466020121.440508] [6113.599000] State machine terminating 'Pressure018':'outcome1':'end'

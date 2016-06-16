@@ -1,0 +1,14 @@
+[INFO] [WallTime: 1466039512.150968] [0.000000] State machine starting in initial state 'SendA20' with userdata: 
+	[]
+[INFO] [WallTime: 1466039523.295338] [19390.078000] State machine transitioning 'SendA20':'outcome1'-->'Location01'
+[INFO] [WallTime: 1466039524.579638] [19390.979000] State machine transitioning 'Location01':'outcome1'-->'Gaze02'
+[INFO] [WallTime: 1466039524.904897] [19391.182000] State machine transitioning 'Gaze02':'outcome1'-->'Timeout3'
+Bored
+[INFO] [WallTime: 1466039525.085482] [19391.282000] State machine transitioning 'Timeout3':'outcome1'-->'SendA24'
+[INFO] [WallTime: 1466039537.958188] [19399.283000] State machine transitioning 'SendA24':'outcome1'-->'Gaze05'
+[INFO] [WallTime: 1466039538.259404] [19399.483000] State machine transitioning 'Gaze05':'outcome1'-->'SendA16'
+[INFO] [WallTime: 1466039543.151461] [19402.584000] State machine transitioning 'SendA16':'outcome1'-->'Gaze07'
+[INFO] [WallTime: 1466039543.474593] [19402.784000] State machine transitioning 'Gaze07':'outcome1'-->'Location08'
+[INFO] [WallTime: 1466039544.957424] [19403.684000] State machine transitioning 'Location08':'outcome1'-->'Pressure19'
+[INFO] [WallTime: 1466039545.298279] [19403.890000] State machine transitioning 'Pressure19':'outcome1'-->'Gaze110'
+[INFO] [WallTime: 1466039545.598084] [19404.090000] State machine terminating 'Gaze110':'outcome1':'end'

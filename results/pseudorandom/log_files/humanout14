@@ -1,0 +1,10 @@
+[INFO] [WallTime: 1466015623.099798] [0.000000] State machine starting in initial state 'Location10' with userdata: 
+	[]
+[INFO] [WallTime: 1466015624.690120] [2956.130000] State machine transitioning 'Location10':'outcome1'-->'SendA11'
+[INFO] [WallTime: 1466015629.011710] [2959.243000] State machine transitioning 'SendA11':'outcome1'-->'Pressure12'
+[INFO] [WallTime: 1466015629.301748] [2959.446000] State machine transitioning 'Pressure12':'outcome1'-->'SendA13'
+[INFO] [WallTime: 1466015633.514106] [2962.546000] State machine transitioning 'SendA13':'outcome1'-->'Location04'
+[INFO] [WallTime: 1466015634.778672] [2963.449000] State machine transitioning 'Location04':'outcome1'-->'Timeout5'
+Bored
+[INFO] [WallTime: 1466015634.931389] [2963.550000] State machine transitioning 'Timeout5':'outcome1'-->'SendA16'
+[INFO] [WallTime: 1466015639.669305] [2966.652000] State machine terminating 'SendA16':'outcome1':'end'
